@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">100_games</string>
+    <string name="winner_message">Congratulations, you\'ve win!</string>
+    <string name="pc_winner_message">Try again, Terminator is the winner!</string>
+    <string name="newGame">New game</string>
+    <string name="draw_message">Draw</string>
+    <string name="Reset">Reset</string>
+    <string name="Reset_message">Points are 0</string>
+</resources>
