@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu1</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="action_settings">Настройки</string>
+    <string name="open">Открыть</string>
+    <string name="save">Сохранить</string>
+    <!-- Добавьте другие необходимые строки -->
+</resources>
